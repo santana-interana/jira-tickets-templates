@@ -10,4 +10,6 @@ Actual Results:
 
 Source URL:
 
-Screenshots:
+UI screenshots:
+
+Browser console screenshots:
